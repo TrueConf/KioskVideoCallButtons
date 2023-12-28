@@ -4,7 +4,7 @@
 
 * Visual Studio 2022+
 
-* .NET 5.0+
+* .NET 6.0+
 
 * PC that meets [system requirements for TrueConf Room](https://trueconf.com/support/system-requirements.html#trueconf-room) (and by extension VideoSDK)
 
@@ -14,7 +14,7 @@
 
 1. Create 3 additional user accounts to test calls from the KioskVideoCallButtons application.
 
-1. [Download TrueConf VideoSDK](https://github.com/TrueConf/pyVideoSDK/blob/main/download.md).
+1. [Download TrueConf VideoSDK](https://github.com/TrueConf/pyVideoSDK/blob/main/download.md#download-trueconf-videosdk-for-free).
 
 1. Install VideoSDK with default settings (Port = 8080). If 8080 port is already taken , select a different one, but then you will have to change the value of the `VIDEOSDK_PORT` field (check the declaration of the **VideoCall** class in the `Form1.cs` file of this project).
 

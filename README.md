@@ -51,3 +51,5 @@ Link to the package: [https://www.nuget.org/packages/TrueConf.VideoSDK/](https:/
 ![running app](./readme/videosdk-example-3.png)
 
 Now you can click on any of these three buttons to call one of the users created previously.
+
+To hang up the call click on any of these buttons again.
